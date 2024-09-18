@@ -36,11 +36,11 @@
 <h3 align="center">📈 | Жалкая стата </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTylerr&layout=compact&theme=radical" alt="Самые используемые языки" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zvshkin&layout=compact&theme=radical" alt="Самые используемые языки" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JackTylerr&show_icons=true&theme=radical" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zvshkin&show_icons=true&theme=radical" alt="Статистика GitHub" />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackTylerr&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zvshkin&theme=radical" alt="GitHub Streak" />
 </p>
