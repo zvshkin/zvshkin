@@ -25,7 +25,7 @@
 <h3 align="center">💬 | Связаться (Зачем?)</h3>
 
 <p align="center">
-  <a href="https://t.me/qwikqwiknrek" target="_blank"><Img src="https://media.discordapp.net/attachments/1010300517504778442/1286014933120843776/6.png?ex=66ec5e3d&is=66eb0cbd&hm=29cbd00ed5483e4ba76d4af32dec91e12989857f1686a7531fa79eaf57d0b174&=&format=webp&quality=lossless&width=572&height=572" Width="70" Height="70"></a>
+  <a href="https://t.me/zvshkin" target="_blank"><Img src="https://media.discordapp.net/attachments/1010300517504778442/1286014933120843776/6.png?ex=66ec5e3d&is=66eb0cbd&hm=29cbd00ed5483e4ba76d4af32dec91e12989857f1686a7531fa79eaf57d0b174&=&format=webp&quality=lossless&width=572&height=572" Width="70" Height="70"></a>
 </p>
 <p align="center">
 <a href="https://discordapp.com/users/658613371553185823/" target="_blank"><Img src="https://media.discordapp.net/attachments/1010300517504778442/1286014933615509635/5.png?ex=66ec5e3d&is=66eb0cbd&hm=17ddf86ec0ed31d16de0861226f3ab49df64687ed17d4b40cc404880aee19ada&=&format=webp&quality=lossless&width=705&height=516" Width="70" Height="50"></a>
