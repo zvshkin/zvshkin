@@ -6,12 +6,12 @@
 <h3 align="center">⏰ | Сейчас или вообще?</h3>
 
 <p align="center">
-Нет понятия, что тут будут за репозитории выходить
+Нет понятия, какие тут будут выходить репозитории
 </p>
 
 ---
 
-<h3 align="center">📚 | В изучение мб</h3>
+<h3 align="center">📚 | В изучение</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -25,10 +25,10 @@
 <h3 align="center">💬 | Связаться (Зачем?)</h3>
 
 <p align="center">
-  <a href="https://t.me/zvshkin" target="_blank"><Img src="https://media.discordapp.net/attachments/1010300517504778442/1286014933120843776/6.png?ex=66ec5e3d&is=66eb0cbd&hm=29cbd00ed5483e4ba76d4af32dec91e12989857f1686a7531fa79eaf57d0b174&=&format=webp&quality=lossless&width=572&height=572" Width="70" Height="70"></a>
+  <a href="https://t.me/zvshkin" target="_blank"><Img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/telegram_icon_131945.png" Width="70" Height="70"></a>
 </p>
 <p align="center">
-<a href="https://discordapp.com/users/658613371553185823/" target="_blank"><Img src="https://media.discordapp.net/attachments/1010300517504778442/1286014933615509635/5.png?ex=66ec5e3d&is=66eb0cbd&hm=17ddf86ec0ed31d16de0861226f3ab49df64687ed17d4b40cc404880aee19ada&=&format=webp&quality=lossless&width=705&height=516" Width="70" Height="50"></a>
+<a href="https://discordapp.com/users/658613371553185823/" target="_blank"><Img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/discord_logo_icon_214740.png" Width="70" Height="50"></a>
 </p>
 
 ---
