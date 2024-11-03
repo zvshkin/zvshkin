@@ -28,7 +28,7 @@
   <a href="https://t.me/zvshkin" target="_blank"><Img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/telegram_icon_131945.png" Width="70" Height="70"></a>
 </p>
 <p align="center">
-<a href="https://discordapp.com/users/658613371553185823/" target="_blank"><Img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/discord_logo_icon_214740.png" Width="70" Height="50"></a>
+<a href="https://discordapp.com/users/658613371553185823/" target="_blank"><Img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/discord_logo_icon_214740.png" Width="85" Height="85"></a>
 </p>
 
 ---
